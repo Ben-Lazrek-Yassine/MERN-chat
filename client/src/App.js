@@ -85,14 +85,6 @@ function App() {
                             <Starter />
                         )}
                     </div>
-                    <footer>
-                        <p>Author: Ritik Gupta </p>
-                        <p>
-                            <a href="https://github.com/ritik3131/RealTime-Chatapp">
-                                GithubRepo
-                            </a>
-                        </p>
-                    </footer>
                 </>
             )}
         </div>
