@@ -13,7 +13,6 @@ require("dotenv").config();
 const messageRouter = require("./routes/messageRoute");
 const roomRouter = require("./routes/roomRoute.js");
 const authRouter = require("./routes/authRoute");
-
 connectDB();
 
 const port = process.env.PORT || 9000;
